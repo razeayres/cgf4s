@@ -9,4 +9,4 @@ CGF4S is a work in progress to create an algorithm capable of filling large gaps
 ![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
 
 ### Preliminary results
-<img src="graph_p1_git.jpg" height="50%" width="50%">
+<img src="graph_p1_git.jpg" height="66%" width="66%">
