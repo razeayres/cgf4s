@@ -1,5 +1,5 @@
 # CGF4S - Climate gap filler for SWAT
-###### *Rodrigo de Queiroga Miranda, Josiclêda Domiciano Galvíncio*
+###### *Rodrigo de Queiroga Miranda, Rodolfo Luiz Bezerra Nóbrega, Josiclêda Domiciano Galvíncio*
 ###### Contact: rodrigo.qmiranda@gmail.com
 
 ### About
